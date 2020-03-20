@@ -1,7 +1,8 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name:  Android Kotlin MVVM Starter
+  link: github.com/huynn109/kotlin-mvvm-starter
   github: https://github.com/huynn109/kotlin-mvvm-starter
   quote: >
     Android Kotlin MVVM Starter.
   description: | # this will include new lines to allow paragraphs
+    description
