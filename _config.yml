@@ -9,22 +9,22 @@ email: huynn109@gmail.com
 website: huynn109.me
 
 # Social links
-twitter_username: huynn109
+#twitter_username: jekyll
 github_username:  huynn109
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: huynn109
+#instagram_username: jekyll
 linkedin_username: huynn109
 # pinterest_username: jekyll
-youtube_username: huynn109
+#youtube_username: huynn109
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Huy and I'm a senior mobile developer. As well as mobile dev I also have experience making mobile apps and small restful api. I have worked at a number of companies gaining teamwork skills.
+  Hi, my name's Huy and I'm a mobile developer. As well as mobile dev I also have experience making mobile apps and small restful api. I have worked at a number of companies gaining teamwork skills.
 
   I am most skilled in: <mark>Android</mark> and <mark>Flutter</mark>
 
