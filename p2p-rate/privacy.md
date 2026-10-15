@@ -20,9 +20,9 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0; }
 </style>
 <main markdown="1">
 
-[English](#p2p-rate--privacy-policy) · [Tiếng Việt](#p2p-rate--chính-sách-quyền-riêng-tư)
+[English](#en) · [Tiếng Việt](#vi)
 
-# P2P Rate · Privacy policy
+# P2P Rate · Privacy policy {#en}
 
 Effective 13 October 2026 · Applies to P2P Rate for Android and iOS, made by Nguyen Nguyen Huy, an individual
 developer in Vietnam ("we").
@@ -60,7 +60,7 @@ refused the app's requests. It contains nothing about your trades, your settings
 Firebase Remote Config lets us pause an exchange for everyone, for example when it blocks the app, without a new
 version: the app fetches these settings with an identifier of this installation.
 
-Google processes this data under its terms: https://firebase.google.com/support/privacy
+Google processes this data under its terms: <https://firebase.google.com/support/privacy>
 
 ## Advertising (Google AdMob)
 
@@ -73,8 +73,8 @@ technologies, to show and measure ads.
   ("Ad privacy").
 - On iOS, the app asks for permission to track (App Tracking Transparency) before the IDFA is used. If you decline,
   AdMob shows non-personalised ads.
-- How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites ·
-  Google privacy policy: https://policies.google.com/privacy
+- How Google uses data from apps that use its services: <https://policies.google.com/technologies/partner-sites> ·
+  Google privacy policy: <https://policies.google.com/privacy>
 
 Removing ads with the in-app purchase stops the AdMob SDK from loading ads.
 
@@ -82,7 +82,7 @@ Removing ads with the in-app purchase stops the AdMob SDK from loading ads.
 
 "Remove ads" is bought through the App Store or Google Play; we never see your payment details. To check and restore
 the purchase, the app uses RevenueCat, which receives an anonymous app user ID, the store receipt and basic device
-data. RevenueCat privacy policy: https://www.revenuecat.com/privacy
+data. RevenueCat privacy policy: <https://www.revenuecat.com/privacy>
 
 ## Children
 
@@ -112,7 +112,7 @@ and trademarks belong to their owners.
 
 ---
 
-# P2P Rate · Chính sách quyền riêng tư
+# P2P Rate · Chính sách quyền riêng tư {#vi}
 
 Có hiệu lực từ 13 tháng 10 năm 2026 · Áp dụng cho P2P Rate trên Android và iOS, do Nguyễn Nguyên Huy, nhà phát triển
 cá nhân tại Việt Nam ("chúng tôi") làm.
@@ -150,7 +150,7 @@ cáo không chứa gì về giao dịch, cài đặt hay thông tin của bạn.
 Firebase Remote Config cho phép chúng tôi tạm dừng một sàn cho mọi người dùng, ví dụ khi sàn chặn app, mà không cần
 phát hành bản mới: app lấy các cài đặt này kèm một mã định danh của lần cài app.
 
-Google xử lý dữ liệu này theo điều khoản của họ: https://firebase.google.com/support/privacy
+Google xử lý dữ liệu này theo điều khoản của họ: <https://firebase.google.com/support/privacy>
 
 ## Quảng cáo (Google AdMob)
 
@@ -162,8 +162,8 @@ nghệ tương tự, để hiện và đo lường quảng cáo.
   bạn qua biểu mẫu của Google. Bạn có thể đổi lựa chọn bất cứ lúc nào trong Cài đặt ("Quyền riêng tư quảng cáo").
 - Trên iOS, app xin phép theo dõi (App Tracking Transparency) trước khi dùng IDFA. Nếu bạn từ chối, AdMob hiện quảng
   cáo không cá nhân hoá.
-- Cách Google dùng dữ liệu từ các app dùng dịch vụ của Google: https://policies.google.com/technologies/partner-sites ·
-  Chính sách quyền riêng tư của Google: https://policies.google.com/privacy
+- Cách Google dùng dữ liệu từ các app dùng dịch vụ của Google: <https://policies.google.com/technologies/partner-sites>
+  · Chính sách quyền riêng tư của Google: <https://policies.google.com/privacy>
 
 Gỡ quảng cáo bằng gói mua trong app sẽ dừng việc tải quảng cáo của AdMob.
 
@@ -171,7 +171,7 @@ Gỡ quảng cáo bằng gói mua trong app sẽ dừng việc tải quảng cá
 
 "Gỡ quảng cáo" được mua qua App Store hoặc Google Play; chúng tôi không bao giờ thấy thông tin thanh toán của bạn. Để
 kiểm tra và khôi phục giao dịch, app dùng RevenueCat; RevenueCat nhận một mã người dùng ẩn danh, biên nhận của cửa hàng
-và dữ liệu thiết bị cơ bản. Chính sách quyền riêng tư của RevenueCat: https://www.revenuecat.com/privacy
+và dữ liệu thiết bị cơ bản. Chính sách quyền riêng tư của RevenueCat: <https://www.revenuecat.com/privacy>
 
 ## Trẻ em
 
